@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://panpan.git
+url: https://panpan.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,5 +69,5 @@ theme: pacman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  respository: https://github.com/skypanpan/panpan.git
+  respository: https://github.com/skypanpan/panpan.github.io.git
   branch: master
