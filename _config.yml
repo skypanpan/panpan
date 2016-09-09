@@ -68,4 +68,10 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+<<<<<<< HEAD
   type:
+=======
+  type: git
+  respository: https://github.com/skypanpan/panpan.git
+  branch: master
+>>>>>>> 8ebb6340e1ac5dce64dc6c46a216625024197e25
